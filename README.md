@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sahithya Arveti Nagaraju
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sahithya-arveti-nagaraju/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://sahithya-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sahithyaarveti/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://sahithya21.github.io/sahithya-portfolio/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sahithyaarvetinagaraju@gmail.com)
 
 ## 🚀 About Me
