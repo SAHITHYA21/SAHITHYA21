@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sahithyaarvetinagaraju@gmail.com)
 
 ## 🚀 About Me
-Data Science graduate student at SUNY Buffalo with 3+ years of industry experience as a Site Reliability Engineer at Sabre Travel Technologies. Passionate about leveraging data science and machine learning to solve complex real-world problems.
+Data Science graduate student at SUNY Buffalo with 3+ years of industry experience as a Software Engineer at Sabre Travel Technologies. Passionate about leveraging data science and machine learning to solve complex real-world problems.
 
 > *"Turning data into actionable insights, one model at a time."*
 
@@ -55,7 +55,7 @@ Data Science graduate student at SUNY Buffalo with 3+ years of industry experien
 
 ## 💼 Professional Journey
 - **Graduate Teaching Assistant** - University at Buffalo *(Jan 2025 - Present)*
-- **Site Reliability Engineer II** - Sabre Travel Technologies *(Feb 2021 - Jan 2024)*
+- **Software Engineer II** - Sabre Travel Technologies *(Feb 2021 - Jan 2024)*
 - **Research Intern** - Samsung PRISM *(Sep 2020 - Aug 2021)*
 
 ## 🔍 Featured Projects
